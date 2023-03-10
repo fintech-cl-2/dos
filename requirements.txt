@@ -1,6 +1,0 @@
-matplotlib==3.3.4
-seaborn==0.11.2
-requests==2.27.1
-datetime==5.0
-yfinance==0.1.87
-
